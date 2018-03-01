@@ -1,0 +1,10 @@
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\bin\Debug\ravish.exe.config
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\bin\Debug\ravish.exe
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\bin\Debug\ravish.pdb
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\obj\Debug\ITFounder.SearchPage.resources
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\obj\Debug\ravish.Properties.Resources.resources
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\obj\Debug\Itfounder.csproj.GenerateResource.Cache
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\obj\Debug\Itfounder.csproj.CoreCompileInputs.cache
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\obj\Debug\ravish.exe
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\obj\Debug\ravish.pdb
+C:\Users\ashu.garg\Downloads\ItFounder\ItFounder\ravish\obj\Debug\Itfounder.csprojResolveAssemblyReference.cache
